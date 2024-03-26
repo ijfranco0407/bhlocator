@@ -12,7 +12,7 @@
 <a href="./index.php"><img src="bh.jpg" height="100"></a> <br>
     <div class="container">
         <h1>User Login</h1>
-        <form action="#" method="POST">
+        <form action="dashboard.php" method="POST"> <!-- Changed action to dashboard.php -->
             <div class="input-group">
                 <label for="username">Username:</label>
                 <input type="text" id="username" name="username" required>
@@ -31,9 +31,4 @@
 </body>
 </html>
 
-
-<br>
-
 <?php include './layout/foot.php'; ?>
-
-<!-- include will only produce a warning (E_WARNING) and the script will continue -->
