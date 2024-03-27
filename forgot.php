@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="forgot.css">
 </head>
 <body>
+    
+<a href="./index.php"><img src="bh.jpg" height="100"></a> <br>
     <div class="container">
         <h1>Forgot Password</h1>
         <p>Please enter your email address below to reset your password.</p>
@@ -26,7 +28,6 @@
 
 
 <br>
-<a href="./index.php">Back to Main Page</a> <br>
 
 <?php include './layout/foot.php'; ?>
 
