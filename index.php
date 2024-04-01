@@ -12,9 +12,9 @@
     <header>
         <nav>
             <ul>
-                <li><a href="index.php">Main Page</a></li>
-                <li><a href="register.php">Register</a></li>
-                <li><a href="login.php">Login</a></li>
+                <li><img src="homeicona.png" alt="" height="25"><a href="index.php">Main Page</a></li>
+                <li><img src="registericon.jpg" alt="" height="25"><a href="register.php">Register</a></li>
+                <li><img src="loginicona.png" alt="" height="25"><a href="login.php">Login</a></li>
             </ul>
         </nav>
     </header>
